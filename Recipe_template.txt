@@ -1,0 +1,13 @@
+Description:
+### Input a description of your dish here!
+
+***
+Ingredients List:
+
+### Input a list of ingredients here! ###
+
+***
+
+Directions:
+
+### Input a list of directions here! ###
