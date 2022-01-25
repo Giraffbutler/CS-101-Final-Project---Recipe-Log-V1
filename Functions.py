@@ -5,7 +5,7 @@ import os
 import time
 
 def initialize():
-    print('Welcome to the EasyShare digital recipe recording/sharing tool!')
+    print('Welcome to the EasyCook digital recipe recording/sharing tool!')
 
 def retrieve_available_recipes():
     current_recipes = []
