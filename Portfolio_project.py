@@ -5,4 +5,4 @@ import time
 
 initialize()
 time.sleep(1)
-action = menu()
+menu()
